@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension type="package" method="upgrade">
+  <packagename>articles</packagename>
+  <name>PKG_ARTICLES</name>
+  <version>3.10.0</version>
+  <creationDate>January 2023</creationDate>
+  <author>Regular Labs (Peter van Westen)</author>
+  <authorEmail>info@regularlabs.com</authorEmail>
+  <authorUrl>https://regularlabs.com</authorUrl>
+  <copyright>Copyright © 2023 Regular Labs - All Rights Reserved</copyright>
+  <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+  <scriptfile>script.install.php</scriptfile>
+  <blockChildUninstall>true</blockChildUninstall>
+  <files folder="packages/j4">
+    
+    <file type="plugin" group="fields" id="articles">plg_fields_articles</file>
+    <file type="plugin" group="fields" id="articleslinked">plg_fields_articleslinked</file>
+  </files>
+  
+  
+  <languages folder="language">
+    <language tag="en-GB">en-GB/en-GB.pkg_articles.sys.ini</language>
+  </languages>
+  <updateservers>
+    <server type="extension" priority="1" name="Articles Field">https://download.regularlabs.com/updates.xml?e=articlesfield&amp;type=.xml</server>
+  </updateservers>
+</extension>
