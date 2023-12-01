@@ -14,39 +14,19 @@ I have a strong foundation in software engineering and a genuine enthusiasm for 
 - **Tools & Frameworks:** Git, Spring Boot, Express.js
 - **Problem Solving:** Data Structures, Algorithms
 
-## Projects
-
-### Project 1: [Project Name](#)
-
-_Description_: A brief overview of the project, including its purpose, technologies used, and your role in the development.
-
-### Project 2: [Project Name](#)
-
-_Description_: Another exciting project you've worked on, highlighting your contributions and the impact of the project.
-
-### Project 3: [Project Name](#)
-
-_Description_: Showcase a diverse range of projects, including personal and collaborative endeavors. Discuss the challenges faced and the solutions implemented.
 
 ## Accomplishments
 
 - **Academic Excellence:** Graduated with honors from Mekelle University, showcasing dedication and commitment to my studies.
-- **Certifications:** List any relevant certifications you have obtained, demonstrating your commitment to continuous learning.
 - **Professional Growth:** Reflect on your 1 year journey in the tech industry, mentioning any promotions, recognitions, or significant milestones.
 
 ## Contact
 
 Feel free to reach out to me for collaborations, opportunities, or just a friendly chat:
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- **GitHub:** [GitHub Profile](https://github.com/your-github-profile)
+- **Email:** alazartilahun13@gmail.com
+- **LinkedIn:** [Alazar Tilahun] (https://www.linkedin.com/in/alazar-tilahun)
+- **GitHub:** [Alazar Tilahun](https://github.com/Alazar2018)
 
 Let's connect and build something amazing together! 🚀
 
----
-
-**Portfolio Website:** [Your Portfolio Website](#)  
-**GitHub Repository:** [GitHub Repository](https://github.com/your-github-profile/your-portfolio-repo)
-
-*Note: Replace placeholders with your actual details and project links.*
